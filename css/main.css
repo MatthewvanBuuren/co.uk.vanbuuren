@@ -1,0 +1,35 @@
+#maincontainer {
+    width:700; 
+    height:auto;
+	margin: 0px auto;
+	padding-top: 100px;
+}
+
+#contentwrapper, #footer  {
+    margin: 0px auto;
+}
+
+.logo {
+    background:url(../images/vanBuuren_FamilyCrest.png) no-repeat center center;
+	height:400px;
+	width:400px;
+    margin: 0px auto;
+}
+
+#social-plugin {
+    width:650px;
+	margin: 0px auto;
+}
+
+#facebook, #twitter, #google {
+	float: left;
+	width: 340px;
+}
+
+#twitter {
+	width: 110px;
+}
+
+#google {
+	width: 200px;
+}
